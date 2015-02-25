@@ -21,7 +21,7 @@
  *
  * @since 1.0.0
  *
- * @package Replace_Plugin_Name
+ * @package Replace_Package_Name
  */
 
 // If uninstall not called from WordPress, then exit.

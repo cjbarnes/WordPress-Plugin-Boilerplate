@@ -5,7 +5,7 @@
  *
  * @since 1.0.0
  *
- * @package Replace_Plugin_Name/admin
+ * @package Replace_Package_Name/admin
  */
 
 /**
