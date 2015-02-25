@@ -15,7 +15,7 @@ This is a fork of the excellent [WordPress Plugin Boilerplate](http://wppb.io) w
 
 ## Installation
 
-You can replace all generic 'Plugin Name' instances in the plugin using global find-and-replaces.
+You can replace all generic 'Plugin Name' instances in the plugin using global find-and-replaces. **Make sure you use a case-sensitive find-and-replace, otherwise you will get unexpected results.**
 
 Make sure you replace **all** strings in this list:
 
